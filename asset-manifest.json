@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bank-Project/static/css/main.45259f13.css",
+    "main.js": "/Bank-Project/static/js/main.8233d8ea.js",
+    "static/js/453.03d94c9f.chunk.js": "/Bank-Project/static/js/453.03d94c9f.chunk.js",
+    "static/media/logo.svg": "/Bank-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bank-Project/index.html",
+    "main.45259f13.css.map": "/Bank-Project/static/css/main.45259f13.css.map",
+    "main.8233d8ea.js.map": "/Bank-Project/static/js/main.8233d8ea.js.map",
+    "453.03d94c9f.chunk.js.map": "/Bank-Project/static/js/453.03d94c9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45259f13.css",
+    "static/js/main.8233d8ea.js"
+  ]
+}
